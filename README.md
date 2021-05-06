@@ -1,6 +1,7 @@
 # GAN-Example-FaceAging-with-Pre-Trained-Model-
 GAN-Example :  FaceAging (with Pre-Trained Model)
-
+Ứng dụng python sử dụng Gan để tạo ảnh già đi của khuôn mặt (Python app uses Gan to create an aging image of a face)
+Được viết bằng Visual Studio (Using Visual Studio)
 Một vài kết quả (Some Result) : 
 
 ![alt text](https://github.com/CircleQMinh/GAN-Example-FaceAging-with-Pre-Trained-Model-/blob/master/GAN_Examples/result/rs1.png)

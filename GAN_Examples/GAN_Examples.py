@@ -25,13 +25,11 @@ for root, dirs, files in os.walk(os.path.abspath("images/")):
         image_paths.append(os.path.join(root, file))
 
 
-print("a")
+print("---Image Path---")
 print(image_paths)
-print("a")
+print("---End--")
 
 
-# image_paths = [os.path.join(args.image_dir, x) for x in os.listdir(args.image_dir)]
-random.shuffle(image_paths)
 # Select images to plot, max 6
 n_images = len(image_paths)
 
